@@ -1,0 +1,5 @@
+- 👋 Hi there, my name is Curi Trinh. I'm living at Toronto, Canada. I’m currently working in Food industry as Food Quality Assurance Specialist.
+- 👀  My hobbies are learning new things, reading, and doing nothing.
+- 🌱 I’m currently learning Python in Coursera and Youtube. My goals this year are completing Python for everyone teaching by University of Michigan and Machine Learning by Andrew Ng. 
+- 💞️ I’m looking to expert in coding and having the knowledge in Machine Learning/ AI in order to apply in my current works and creating my own projects.
+- 📫 How to reach me via email curitrinh@gmail.com
